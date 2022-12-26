@@ -1,12 +1,11 @@
 {
-    "homepage": "http://spaghetttti.github.io/lesson-27/",
+    "homepage": "http://spaghetttti.github.io/Habibi-Wear/",
     "name": "crwn-clothing",
     "version": "0.1.0",
     "proxy": "http://localhost:5000",
     "private": true,
     "dependencies": {
         "firebase": "^8.9.0",
-        "node-sass": "4.14",
         "react": "^17.0.2",
         "react-dom": "^17.0.2",
         "react-redux": "^7.2.4",
