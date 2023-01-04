@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/habibi-shop/static/css/main.be601951.chunk.css",
+    "main.js": "/habibi-shop/static/js/main.8ed29c1f.chunk.js",
+    "main.js.map": "/habibi-shop/static/js/main.8ed29c1f.chunk.js.map",
+    "runtime~main.js": "/habibi-shop/static/js/runtime~main.f13e3c5b.js",
+    "runtime~main.js.map": "/habibi-shop/static/js/runtime~main.f13e3c5b.js.map",
+    "static/js/2.8cac66f4.chunk.js": "/habibi-shop/static/js/2.8cac66f4.chunk.js",
+    "static/js/2.8cac66f4.chunk.js.map": "/habibi-shop/static/js/2.8cac66f4.chunk.js.map",
+    "static/js/3.ea494ec1.chunk.js": "/habibi-shop/static/js/3.ea494ec1.chunk.js",
+    "static/js/3.ea494ec1.chunk.js.map": "/habibi-shop/static/js/3.ea494ec1.chunk.js.map",
+    "static/js/4.eeb7cd8b.chunk.js": "/habibi-shop/static/js/4.eeb7cd8b.chunk.js",
+    "static/js/4.eeb7cd8b.chunk.js.map": "/habibi-shop/static/js/4.eeb7cd8b.chunk.js.map",
+    "static/js/5.fb75abbc.chunk.js": "/habibi-shop/static/js/5.fb75abbc.chunk.js",
+    "static/js/5.fb75abbc.chunk.js.map": "/habibi-shop/static/js/5.fb75abbc.chunk.js.map",
+    "static/js/6.b51c0f73.chunk.js": "/habibi-shop/static/js/6.b51c0f73.chunk.js",
+    "static/js/6.b51c0f73.chunk.js.map": "/habibi-shop/static/js/6.b51c0f73.chunk.js.map",
+    "static/js/7.7a974835.chunk.js": "/habibi-shop/static/js/7.7a974835.chunk.js",
+    "static/js/7.7a974835.chunk.js.map": "/habibi-shop/static/js/7.7a974835.chunk.js.map",
+    "static/js/8.ea6326b2.chunk.js": "/habibi-shop/static/js/8.ea6326b2.chunk.js",
+    "static/js/8.ea6326b2.chunk.js.map": "/habibi-shop/static/js/8.ea6326b2.chunk.js.map",
+    "index.html": "/habibi-shop/index.html",
+    "precache-manifest.d9ed0b718e24d7ef32d0d06ecdec0c53.js": "/habibi-shop/precache-manifest.d9ed0b718e24d7ef32d0d06ecdec0c53.js",
+    "service-worker.js": "/habibi-shop/service-worker.js",
+    "static/css/main.be601951.chunk.css.map": "/habibi-shop/static/css/main.be601951.chunk.css.map",
+    "static/media/crown.19ef7b17.svg": "/habibi-shop/static/media/crown.19ef7b17.svg",
+    "static/media/shopping-bag.30f07071.svg": "/habibi-shop/static/media/shopping-bag.30f07071.svg"
+  }
+}
